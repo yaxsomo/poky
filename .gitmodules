@@ -1,0 +1,16 @@
+[submodule "meta-arm"]
+	path = meta-arm
+	url = https://git.yoctoproject.org/meta-arm
+	branch = scarthgap
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded
+	branch = scarthgap
+[submodule "meta-helios-splashscreen"]
+	path = meta-helios-splashscreen
+	url = https://github.com/yaxsomo/meta-helios-splashscreen
+	branch = scarthgap
+[submodule "meta-ti"]
+	path = meta-ti
+	url = https://git.yoctoproject.org/meta-ti
+	branch = scarthgap
